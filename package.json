@@ -7,7 +7,7 @@
     "start": "vinxi start"
   },
   "dependencies": {
-    "@kobalte/core": "0.13.7",
+    "@kobalte/core": "0.13.9",
     "@solid-primitives/scheduled": "1.4.4",
     "@solidjs/meta": "0.29.4",
     "@solidjs/router": "0.15.2",
